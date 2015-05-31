@@ -1,9 +1,9 @@
 for i in xrange(1, 101):
     if i % 15 == 0:
-        print "FizzBuzz"
+        print "hola-chau"
     elif i % 3 == 0:
-        print "Fizz"
+        print "hola"
     elif i % 5 == 0:
-        print "Buzz"
+        print "chau"
     else:
         print i
